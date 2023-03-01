@@ -1,4 +1,6 @@
 ### Hi there 👋
+---
+[![](https://visitcount.itsvg.in/api?id=Riableo&icon=5&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 Soy Ingeniero de sistemas tengo experiencia programando en Java, Android Studio, Python, manejo de consultas SQL, programación web, JavaScript, estoy aprendiendo flutter, C# y react. 
@@ -9,8 +11,5 @@ Soy Ingeniero de sistemas tengo experiencia programando en Java, Android Studio,
 ![](https://github-readme-stats.vercel.app/api?username=Riableo&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Riableo&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riableo&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Riableo&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
